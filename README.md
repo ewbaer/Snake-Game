@@ -1,0 +1,1 @@
+To run this game start it from SnakeGame.java.  When the game has started, control the snake using your arrow keys. The goal of the game is to collect as many apples and fill the board. If the snake runs into itself, the game is over.
